@@ -5,7 +5,7 @@ img1 = cv2.imread('cv2 work\\images\\nature.jpg')
 img1= cv2.resize(img1,(500,500)) 
 
 txt=cv2.putText(img = img1,
-text = "Urvi",
+text = "TEXT",
 org = (60,100), #for downside of img make y axis value greater 
 fontFace = cv2.FONT_HERSHEY_DUPLEX ,
 fontScale = 3 ,
