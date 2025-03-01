@@ -11,7 +11,10 @@ This repository contains various image operations and processing techniques usin
 ✅ Advanced Techniques (Face Detection, Object Detection)      
 ✅ Well-Structured Code with Examples      
 
-🎯 Connect With Me
-👤 Urvashi Shasne
-🔗 GitHub
+📌 **Want to learn about OpenCV before diving in?**  
+👉 Read the full introduction here: [OpenCV Introduction](OpenCV_Introduction.md)
+      
+🎯 Connect With Me      
+👤 Urvashi Shasne    
+🔗 GitHub https://github.com/Urvashishasne     
 
