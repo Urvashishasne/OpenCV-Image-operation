@@ -1,5 +1,8 @@
-OpenCV Image Operations 🚀          
-              
+**OpenCV Image Operations 🚀**          
+
+![image](https://github.com/user-attachments/assets/fa639587-98a0-4ced-b85f-d61fe3206df6) 
+          
+
 📌 About This Repository      
 This repository contains various image operations and processing techniques using OpenCV. It serves as a collection of fundamental to advanced image processing scripts, helping learners understand OpenCV functionalities.    
           
@@ -29,5 +32,4 @@ OpenCV-Image-Operations/
             
 🎯 Connect With Me      
 👤 Urvashi Shasne    
-🔗 GitHub      
-
+🔗 GitHub: https://github.com/Urvashishasne
